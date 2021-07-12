@@ -3,7 +3,7 @@
 
 * Pet Lover is a [Spring Boot](https://spring.io/guides/gs/spring-boot) application built using [Maven](https://spring.io/guides/gs/maven/). 
 
-### Prerequisites
+## Prerequisites
 The following  should be installed in your system:
 * [Java 8 or newer](https://www.oracle.com/technetwork/java/javase/downloads/index.html)
 * [Git command line tool](https://help.github.com/articles/set-up-git)
@@ -17,7 +17,7 @@ The following  should be installed in your system:
 ## Database configuration
 No database configuration required since the project uses an in-memory `H2` database.
 
-## Running the project locally on your pc
+## Running Pet Lover locally 
 * You can build a jar file and run it from the command line:
 
 ```
